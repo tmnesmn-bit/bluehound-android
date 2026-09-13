@@ -2,8 +2,8 @@
 
 Always-on lookout for Bluetooth trackers, for Android. The full-strength native
 companion to [BlueHound](https://tmnesmn-bit.github.io/bluehound/) (the web version).
-For Wi-Fi instead of Bluetooth, see the sister app
-[NetHound](https://github.com/tmnesmn-bit/nethound).
+Sister apps: [NetHound](https://github.com/tmnesmn-bit/nethound) (Wi-Fi) and
+[RadioHound](https://github.com/tmnesmn-bit/radiohound) (cell towers and the radio dial).
 
 **What it does:** keeps scanning for Bluetooth devices even with your screen off,
 shows everything nearby in plain English (🎧 Headphones · Sony, not raw numbers),
